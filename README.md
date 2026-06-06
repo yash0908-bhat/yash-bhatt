@@ -40,5 +40,5 @@ The project evaluates communication-performance trade-offs using task accuracy, 
 
 ## Contact
 
-- LinkedIn: Add your LinkedIn link here
-- Email: Add your academic or professional email here
+- LinkedIn: https://www.linkedin.com/in/yash-bhatt-273503205/
+- Email: bhattyash9820@gmail.com
