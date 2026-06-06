@@ -36,7 +36,7 @@ The project evaluates communication-performance trade-offs using task accuracy, 
 
 ## Selected Project
 
-[LLM-MAS Communication Filtering](https://github.com/YOUR-USERNAME/llm-mas-communication-filtering)
+[LLM-MAS Communication Filtering](https://github.com/yash-bhatt/llm-mas-communication-filtering)
 
 ## Contact
 
